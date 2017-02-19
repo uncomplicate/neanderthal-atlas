@@ -1,5 +1,5 @@
 ## Neanderthal native bindings
-This library is intended for use through the [Neanderthal Clojure Library](http://neanderthal.uncomplicate.org).
+This library is DEPRECATED in favor of neanderthal-mkl.
 
 ## License
 
